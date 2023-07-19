@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KKiumbe
 - 👀 I’m interested in web apps 
-- 🌱 I’m currently learning java basics
+- 🌱 I’m currently learning python basics
 - 💞️ I’m looking to collaborate on java frameworks and technologies 
 - 📫 How to reach me just DM
 
