@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KKiumbe
 - 👀 I’m interested in web apps 
-- 🌱 I’m currently learning python basics
-- 💞️ I’m looking to collaborate on python frameworks and technologies 
+- 🌱 I’m currently learning fullstack course on codecademy 
+- 💞️ I’m looking to collaborate on React frameworks and technologies 
 - 📫 How to reach me just DM
 
 <!---
